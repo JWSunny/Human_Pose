@@ -1,7 +1,7 @@
 本篇主要介绍目前项目中使用的2D姿态估计 和 2D-3D的姿态估计方法；
 
 主要针对 Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach
-【https://arxiv.org/pdf/1704.02447.pdf】文章进行网络结构的修改及改进；
+【https://arxiv.org/pdf/1704.02447.pdf】 ，文章进行网络结构的修改及改进；
 
 1.上述论文中描述的网络其实结构比较简单，总的结构就是 stacked hourglass网络 + 深度回归层
 2.其中，2d姿态估计使用的是 stacked hourglass网络；
