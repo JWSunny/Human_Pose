@@ -4,6 +4,7 @@
 算法，分别是 CPN（Face++） 和 Simple Baseline（微软）
 
 
+
 CPN（级联金字塔网络）
 
 1.主要是两个网络的级联，GlobalNet 和 RefineNet 两个网络，阶段1主要是针对比较容易的点，
