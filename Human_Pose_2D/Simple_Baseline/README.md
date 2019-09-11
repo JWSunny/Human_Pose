@@ -1,4 +1,5 @@
 1.stacked hourglass其实是2016年姿态估计比赛，在MPII数据集上的冠军；
+
 2.后续在做2D人体姿态估计上还有不少优秀的方法，下面主要会介绍两种在coco上表现比较好的
 算法，分别是 CPN（Face++） 和 Simple Baseline（微软）
 
